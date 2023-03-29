@@ -17,8 +17,8 @@
     <p>
         <asp:Label ID="InvalidCredentialsMessage" runat="server" ForeColor="Red" Text="Your username or password is invalid. Please try again."
             Visible="False"></asp:Label> </p>
-</asp:Content>
-<asp:Content ID="Content2" runat="server" contentplaceholderid="LoginContent">
+           </asp:Content>
+           <asp:Content ID="Content2" runat="server" contentplaceholderid="LoginContent">
                     <br /><br />
                 </asp:Content>
 
