@@ -2,5 +2,7 @@
 <asp:Content ID="Content1" ContentPlaceHolderID="MainContent" runat="server">
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="LoginContent" runat="server">
-    you logout
+    <p> You are logout. Try to 
+        <a href="Login.aspx">Login</a>
+    </p>you logout
 </asp:Content>

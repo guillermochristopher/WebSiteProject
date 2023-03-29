@@ -42,7 +42,6 @@
                     <asp:LoginStatus ID="LoginStatus1" runat="server" LogoutAction="Redirect" LogoutPageUrl="~/Logout.aspx" />
                 </asp:ContentPlaceHolder>
 
-                TODO: MENU WILL GO HERE
             </div>
         </form>
     </div>
