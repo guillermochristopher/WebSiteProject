@@ -1,2 +1,2 @@
 # WebSiteProject
-Ecommerce website made for learning purposes. It actually works as a real website, but with no prodcuts on it.
+Ecommerce website made for learning purposes. It will work works as a real website, but with no products on it.
